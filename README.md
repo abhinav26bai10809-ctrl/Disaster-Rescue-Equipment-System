@@ -67,7 +67,7 @@ Option 1: Clone the Repository
 Open Command Prompt or a terminal and run:
 
 '''bash
-git clone<https://github.com/abhinav26bai10809-ctrl/Disaster-Rescue-Equipment-System>
+git clone <https://github.com/abhinav26bai10809-ctrl/Disaster-Rescue-Equipment-System>
 
 Option 2: Download as ZIP
 The repository can also be downloaded as a ZIP file from GitHub
