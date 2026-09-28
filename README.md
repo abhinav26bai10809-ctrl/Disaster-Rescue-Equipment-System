@@ -67,5 +67,12 @@ Option 1: Clone the Repository
 Open Command Prompt or a terminal and run:
 
 '''bash
-git clone 
+git clone<https://github.com/abhinav26bai10809-ctrl/Disaster-Rescue-Equipment-System>
 
+Option 2: Download as ZIP
+The repository can also be downloaded as a ZIP file from GitHub
+After downloading, extract the ZIP file and open the extracted project folder
+
+7. Dependency Installation
+This Project does not require any external python libraries or packages
+Therefore , no pip install command is required
