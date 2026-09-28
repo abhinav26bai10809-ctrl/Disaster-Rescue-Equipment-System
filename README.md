@@ -74,5 +74,59 @@ The repository can also be downloaded as a ZIP file from GitHub
 After downloading, extract the ZIP file and open the extracted project folder
 
 7. Dependency Installation
-This Project does not require any external python libraries or packages
-Therefore , no pip install command is required
+This project does not require any external python libraries or packages
+Therefore no additional dependency installation is required
+
+8. Configuration
+No additional configuration is required to run this project
+The project does not require:-
+1) API keys
+2) Database Setup
+3) Environment variables
+4) External services
+
+9. Running the project
+Open command prompt or a terminal inside the project foder
+Run the python program using:
+'''bash
+python "Vityarthi Project.py"
+After running the command , the main menu of the disaster assessment and rescue equipment system will be displayed.
+
+10. How to use the program
+The main menu provides the following option
+1) Select Disaster
+2) Exit
+3) Emergency Checklist
+4) Equipment Categories
+
+ Select Disaster
+ Choose option 1 to select a disaster
+ The system will then display the recommended rescue equipment
+
+ Exit
+ Choose option 2 to exit the program
+
+ Emergency Checklist
+ Choose option 3 to view the emergency checklist
+
+ Equipment Categories
+ Choose option 4 to view Equipment Categories and view equipment in each category
+ One thing we need to fix later
+
+11. Project Structure
+The project contains the following main files:
+1) 'README.md' - Contains project information , setup instruction , and usage instructions
+2) 'statement.md' - Contains the project statement and description
+3) 'VityarthiProject.py' - Contains the main python program for the Disaster Assessment and Rescue Equipment System.
+
+12. Python Concepts Used
+The project uses the following python concepts:
+1) Variables and user input
+2) if , else , elif
+3) While loop
+4) Lists
+5) Tuples
+6) Output validations
+
+13. Future Enhancements
+In the future, the project can be improved by adding more disaster types, more detailed equipment recommendations, a graphical user interface, and additional emergency planning features.
