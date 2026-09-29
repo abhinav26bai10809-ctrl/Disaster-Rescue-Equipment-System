@@ -89,10 +89,11 @@ The project does not require:-
 Open command prompt or a terminal inside the project foder
 Run the python program using:
 '''bash
-python "Vityarthi Project.py"
+python "Vityarthi Project.py" for original version
+"Main.py" , "Disaster_Assessment.py , "Emergency_Checklist.py" , "Equipment_Categories" for New Version 
 After running the command , the main menu of the disaster assessment and rescue equipment system will be displayed.
 
-10. How to use the program
+11. How to use the program
 The main menu provides the following option
 1) Select Disaster
 2) Exit
@@ -117,7 +118,11 @@ The main menu provides the following option
 The project contains the following main files:
 1) 'README.md' - Contains project information , setup instruction , and usage instructions
 2) 'statement.md' - Contains the project statement and description
-3) 'VityarthiProject.py' - Contains the main python program for the Disaster Assessment and Rescue Equipment System.
+3)  Original Folder Contains :- 'VityarthiProject.py' - Contains the original python program for the Disaster Assessment and Rescue Equipment System.
+4)  Main.py - Contains the main code and menu where other files connect and work 
+5)  Disaster_Assessment.py - Contains the code for disaster Assessment
+6)  Emergency_Checklist.py - Contains the code for Emergency Checklist
+7)  Equipment_Categories.py - Contains the code for Equipment Categories
 
 12. Python Concepts Used
 The project uses the following python concepts:
@@ -127,6 +132,7 @@ The project uses the following python concepts:
 4) Lists
 5) Tuples
 6) Output validations
+7) Functions
 
 13. Future Enhancements
 In the future, the project can be improved by adding more disaster types, more detailed equipment recommendations, a graphical user interface, and additional emergency planning features.
