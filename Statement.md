@@ -6,22 +6,22 @@ During a disaster, selecting suitable rescue equipment according to the type and
 The main objective of this project is to provide a simple and easy to use system for identifying recommended rescue equipment for different disaster.
 
 # Disasters Covered
-Flood
-Earthquake
-Tsunami
-Cyclone
-Drought
+Flood,
+Earthquake,
+Tsunami,
+Cyclone,
+Drought,
 Landslide
 
 # Severity Levels
-High
-Mid
+High,
+Mid,
 Low
 
 # Main Features
 Disaster and severity based equipment recommendations
-Emergency Checklist
-Equipment Categories
+Emergency Checklist,
+Equipment Categories,
 Exit Option
 
 # Conclusion
